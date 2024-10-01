@@ -21,7 +21,12 @@ const Header = ({ opened, toggle }: HeaderProps) => {
           ml="sm"
         />
 
-        <Group justify="space-between" h="100%" ml={isMobile ? 0 : 28} w={isMobile ? "inherit" : "100%"}>
+        <Group
+          justify="space-between"
+          h="100%"
+          ml={isMobile ? 0 : 28}
+          w={isMobile ? "inherit" : "100%"}
+        >
           <Box>Bower Search (Lite)</Box>
           <List
             visibleFrom="sm"

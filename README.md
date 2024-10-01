@@ -1,5 +1,3 @@
-# Mantine Vite template
-
-Get started with the template by clicking `Use this template` button on the top of the page.
-
-[Documentation](https://mantine.dev/guides/vite/)
+# Setup
+1. `yarn i` - Install deps
+2. `yarn start` - Run the app locally at http://localhost:5173/

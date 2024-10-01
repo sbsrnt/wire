@@ -4,9 +4,10 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "tsc && vite build",
     "lint": "biome check --write",
+    "test": "echo 'No tests.' Here is how I write them: https://github.com/sbsrnt/hearthlounge-design-system/tree/master/src or https://github.com/sbsrnt/api-sphene/tree/master/test",
     "preview": "vite preview"
   },
   "dependencies": {
